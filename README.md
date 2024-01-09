@@ -1,5 +1,5 @@
 # Simple-DBMS-Implementation
-一个简易的DBMS系统实现
+一个简易的DBMS系统实现,使用Excel模拟表，使用BPlusTree维护索引。
 # 启动
 运行database（/src/main/java/database）程序即可。
 # 使用教程（B站地址）
